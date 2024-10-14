@@ -15874,7 +15874,7 @@
         {
             "author": "bartly",
             "title": "Babel Removebg Api Node for ComfyUI",
-            "id": "BabelRemovebgApi",
+            "id": "babelremovebgapi",
             "reference": "https://github.com/bartly/Comfyui_babel_removebg_api.git",
             "files": [
                 "https://github.com/bartly/Comfyui_babel_removebg_api/raw/main/BabelApi.py"
